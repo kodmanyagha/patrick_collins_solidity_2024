@@ -1,6 +1,6 @@
 ## Solidity Tutorial
 
-Tutorial video with time: https://youtu.be/-1GB6m39-rM?t=17205
+Tutorial video with time: https://youtu.be/-1GB6m39-rM?t=19213
 
 ## Usage
 
