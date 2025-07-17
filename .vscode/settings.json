@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity",
+  },
+  "solidity.remappings": [
+    "@openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/",
+    "@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/",
+    "@solady-utils/=lib/solady/src/utils/"
+  ],
+  "solidity.compileUsingRemoteVersion": "v0.8.17",
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.monoRepoSupport": false
+}
